@@ -1,16 +1,22 @@
-### Hi there 👋
+### 반갑습니다, 길지훈입니다 👋
 
-<!--
-**giljihun/giljihun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying on iOS App Developement
+- 🌱 I’m currently learning SwiftUI
+- 👯 I’m doing various computing activities in the MOBICOM lab.
+- 🤔 I’m looking for help with RxSwift :-)
+- 💬 Ask me about Swift & SwiftUI
+- ⚡ Fun fact: I spend most of my time watching soccer games. (My cheer team is Arsenal.)
 
-Here are some ideas to get you started:
+### Programming Languages  :rocket:
+### Tools :fire:
+### Connect with me :smiley:
+<a href="mailto:accc45@outlook.com">
+  <img align="left" alt="Giljihun Outlook" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/twitter.svg" />
+</a>
+<a href="https://blog.naver.com/giljihun-">
+  <img align="left" alt="Giljihun Blog" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/kiljihun/">
+  <img align="left" alt="Giljihun Instagram" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/twitter.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
