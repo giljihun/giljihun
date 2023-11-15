@@ -8,12 +8,12 @@
 - ⚡ Fun fact: I spend most of my time watching soccer games. (My cheer team is Arsenal.)
 
 ### Programming Languages  :rocket:
-|<img src="images/swift.png" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60> | <img src="images/java.png" width=60> |
+|<img src="images/swift.png" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60> | <img src="images/java.svg" width=45> |
 |:---:|:---:|:---:|
 ### Tools :fire:
-|<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/1200px-Android_Studio_icon.svg.png" width=60>| <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/intellij-idea_logo_300x300.png" width=60>| <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/Adobe_Brackets_v0.0.x_icon.png" width=60>|  <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/firebase.png" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/25231.svg" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/logo-stable.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/flutter.png" width=60> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-### Connect with me :smiley:
+|<img src="images/SwiftUI.png" width=60>| <img src="images/Xcode.png" width=60>|<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/25231.svg" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/logo-stable.png" width=60> |
+|:---:|:---:|:---:|:---:|
+### Connect with me  :smiley:
 <a href="mailto:accc45@outlook.com">
   <img align="left" alt="Giljihun Outlook" width="21px" src="images/microsoftoutlook.svg" />
 </a>
