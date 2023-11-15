@@ -11,12 +11,12 @@
 ### Tools :fire:
 ### Connect with me :smiley:
 <a href="mailto:accc45@outlook.com">
-  <img align="left" alt="Giljihun Outlook" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/twitter.svg" />
+  <img align="left" alt="Giljihun Outlook" width="21px" src="https://github.com/giljihun/giljihun/blob/master/images/outlook.svg" />
 </a>
 <a href="https://blog.naver.com/giljihun-">
-  <img align="left" alt="Giljihun Blog" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/twitter.svg" />
+  <img align="left" alt="Giljihun Blog" width="21px" src="https://github.com/giljihun/giljihun/blob/master/images/naver.svg" />
 </a>
 <a href="https://www.instagram.com/kiljihun/">
-  <img align="left" alt="Giljihun Instagram" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/twitter.svg" />
+  <img align="left" alt="Giljihun Instagram" width="21px" src="https://github.com/giljihun/giljihun/blob/master/images/instagram.svg" />
 </a>
 
