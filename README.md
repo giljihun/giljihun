@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I spend most of my time watching football games. (My cheer team is Arsenal.)
 
 ### Programming Languages  :rocket:
-|<img src="images/swift.png" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60> | <img src="images/java.svg" width=45> |
+|<img src="images/swift.png" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60> | <img src="images/java.png" width=60> |
 |:---:|:---:|:---:|
 ### Tools :fire:
 |<img src="images/SwiftUI.png" width=60>| <img src="images/Xcode.png" width=60>|<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/25231.svg" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/logo-stable.png" width=60> |
