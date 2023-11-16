@@ -1,4 +1,4 @@
-### 반갑습니다, 길지훈입니다 👋
+## **반갑습니다, 길지훈입니다** 👋
 
 **- 🔭 I’m currently studying on iOS App Developement**  
 **- 🌱 I’m currently learning SwiftUI**  
