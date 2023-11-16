@@ -25,4 +25,9 @@
   <img align="left" alt="Giljihun Instagram" width="40px" src="images/instagram.svg" />
 </a>  
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+
+  
+  
+  ---
+  
+  ![](./profile-3d-contrib/profile-gitblock.svg)
