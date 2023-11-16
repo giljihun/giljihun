@@ -23,5 +23,6 @@
 </a>
 <a href="https://www.instagram.com/kiljihun/">
   <img align="left" alt="Giljihun Instagram" width="40px" src="images/instagram.svg" />
-</a>
+</a>  
 
+![](./profile-3d-contrib/profile-green-animate.svg)
