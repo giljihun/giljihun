@@ -49,12 +49,14 @@
 ---
 ### Connect with me  :smiley:
 <a href="mailto:accc45@outlook.com">
-  <img align="left" alt="Giljihun Outlook" width="40px" src="images/microsoftoutlook.svg" />
+  <img align="center" alt="Giljihun Outlook" width="40px" src="images/microsoftoutlook.svg" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://blog.naver.com/giljihun-">
-  <img align="left" alt="Giljihun Blog" width="40px" src="images/naver.svg" />
+  <img align="center" alt="Giljihun Blog" width="40px" src="images/naver.svg" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/kiljihun/">
-  <img align="left" alt="Giljihun Instagram" width="40px" src="images/instagram.svg" />
+  <img align="center" alt="Giljihun Instagram" width="40px" src="images/instagram.svg" />
 </a>  
 
