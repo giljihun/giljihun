@@ -20,18 +20,18 @@
 |<img src="images/SwiftUI.png" width=60>| <img src="images/Xcode.png" width=60>|<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/25231.svg" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/logo-stable.png" width=60> |
 |:---:|:---:|:---:|:---:|
 
----
+## Projects
 
-### Projects in Done  🚢
+### in Done  🚢
 |<img src="https://github.com/giljihun/giljihun/assets/75918176/030a0cc7-63f2-4e72-8ce9-a1d59199a898" width=60> | <img src="https://github.com/giljihun/giljihun/assets/75918176/c4bf52c9-21d5-472a-a418-739352392f26" width=60> | <img src="images/java.png" width=60> |
 |:---:|:---:|:---:|
 
-### Projects in Progress  🏴‍☠️
+### in Progress  🏴‍☠️
 |<img src="https://github.com/giljihun/giljihun/assets/75918176/85580d18-efaa-450f-9b2f-85c99865ad3c" width=60> | <img src="https://github.com/giljihun/giljihun/assets/75918176/25651f1e-379e-4235-92dd-8f9106e95c31" width=60> |
 |:---:|:---:|
 
 
----  
+---
   ![](./profile-3d-contrib/profile-gitblock.svg)
 
 ---
