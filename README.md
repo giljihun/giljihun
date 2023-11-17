@@ -12,7 +12,7 @@
 **- ⚡ Fun fact: I spend most of my time watching football games. (My cheer team is Arsenal.)**  
 
 <br>
-  
+
 ### Programming Languages  :rocket:
 |<img src="images/swift.png" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60> | <img src="images/java.png" width=60> |
 |:---:|:---:|:---:|
@@ -24,7 +24,7 @@
 > 이미지를 클릭하면 해당 프로젝트 소개 페이지로 이동이 가능합니다.
 ### in Done  🚢
 <a href="https://github.com/giljihun/In-Timer-">
-  <img src="https://github.com/giljihun/giljihun/assets/75918176/030a0cc7-63f2-4e72-8ce9-a1d59199a898" width="100">  
+  <img src="https://github.com/giljihun/giljihun/assets/75918176/2ae5fdec-a8ed-43c7-b808-749d6a3df7b1" width="100">  
 </a>  
 <!-- 공백 문자 추가 -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
