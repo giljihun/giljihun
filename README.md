@@ -24,23 +24,24 @@
 > 이미지를 클릭하면 해당 프로젝트 소개 페이지로 이동이 가능합니다.
 ### in Done  🚢
 <a href="https://github.com/giljihun/In-Timer-">
-  <img src="https://github.com/giljihun/giljihun/assets/75918176/2ae5fdec-a8ed-43c7-b808-749d6a3df7b1" width="100">  
+  <img src="https://github.com/giljihun/giljihun/assets/75918176/2ae5fdec-a8ed-43c7-b808-749d6a3df7b1" width="150">  
 </a>  
 <!-- 공백 문자 추가 -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/giljihun/HanTongSok">
-  <img src="https://github.com/giljihun/giljihun/assets/75918176/e8f07f0d-8dfa-46c7-8030-e87640e7703b" width="100">  
+  <img src="https://github.com/giljihun/giljihun/assets/75918176/e8f07f0d-8dfa-46c7-8030-e87640e7703b" width="150">  
 </a>
 
 ### in Progress  🏴‍☠️
 
-<a href="https://github.com/giljihun/In-Timer-">
-  <img src="https://github.com/giljihun/giljihun/assets/75918176/85580d18-efaa-450f-9b2f-85c99865ad3c" width="100">
+<a href="https://github.com/giljihun/AziTeam">
+  <img src="https://github.com/giljihun/giljihun/assets/75918176/1b66bd7f-5961-4a78-94e8-7a3367e601c9" width="150">
 </a>
-<a href="https://github.com/giljihun/In-Timer-">
-  <img src="https://github.com/giljihun/giljihun/assets/75918176/25651f1e-379e-4235-92dd-8f9106e95c31" width="100">
+<!-- 공백 문자 추가 -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/DuriAnyujin/DuriAnyujin_iOS">
+  <img src="https://github.com/giljihun/giljihun/assets/75918176/e20f29c4-ff39-485d-8d38-389f79bcfda7" width="150">
 </a>
-
 
 ---
   ![](./profile-3d-contrib/profile-gitblock.svg)
