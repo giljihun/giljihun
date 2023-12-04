@@ -47,17 +47,9 @@
 <a href="https://github.com/giljihun/AziTeam">
   <img src="https://github.com/giljihun/giljihun/assets/75918176/e20f29c4-ff39-485d-8d38-389f79bcfda7" width="150">
 </a>
-<!-- 공백 문자 추가 -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/DuriAnyujin/DuriAnyujin_iOS">
-  <img src="https://github.com/giljihun/giljihun/assets/75918176/1b66bd7f-5961-4a78-94e8-7a3367e601c9" width="150">
-</a>
 
 <br>
 <br>
-
----
-  ![](./profile-3d-contrib/profile-gitblock.svg)
 
 ---
 ### Connect with me  :smiley:
