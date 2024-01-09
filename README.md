@@ -67,3 +67,4 @@
 
 letsgo
 
+![giljihun](https://github-readme-stats.vercel.app/api?username=giljihun&show_icons=true&theme=dracula)
