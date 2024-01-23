@@ -65,6 +65,3 @@
   <img align="center" alt="Giljihun Instagram" width="40px" src="images/instagram.svg" />
 </a>  
 
-letsgo
-
-![giljihun](https://github-readme-stats.vercel.app/api?username=giljihun&show_icons=true&theme=dracula)
