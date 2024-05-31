@@ -26,12 +26,6 @@
 
 ### in Done  🚢
 
-<a href="https://github.com/giljihun/hye-eum">
-  <img src="https://github.com/giljihun/giljihun/assets/75918176/7cc449e1-4cd0-4c8e-9ce6-c8cda742d179" width="150">  
-</a>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
 <a href="https://github.com/giljihun/In-Timer-">
   <img src="https://github.com/giljihun/giljihun/assets/75918176/2ae5fdec-a8ed-43c7-b808-749d6a3df7b1" width="150">  
 </a>  
@@ -49,8 +43,14 @@
     
 ### in Progress  🏴‍☠️
 
+
+<a href="https://github.com/giljihun/hye-eum">
+  <img src="https://github.com/giljihun/giljihun/assets/75918176/7cc449e1-4cd0-4c8e-9ce6-c8cda742d179" width="150">  
+</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/giljihun/AziTeam">
-  <img src="https://github.com/giljihun/giljihun/assets/75918176/e20f29c4-ff39-485d-8d38-389f79bcfda7" width="150">
+  <img src="https://github.com/giljihun/giljihun/assets/75918176/e20f29c4-ff39-485d-8d38-389f79bcfda7" width="200">
 </a>
 
 <br>
