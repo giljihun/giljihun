@@ -16,6 +16,9 @@
 |:---:|:---:|
 
 ---
+
+![gil's GitHub stats](https://github-readme-stats.vercel.app/api?username=giljihun&count_private=true)
+
 ### Connect with me  :smiley:
 <a href="mailto:accc45@outlook.com">
   <img align="center" alt="Giljihun Outlook" width="40px" src="images/microsoftoutlook.svg" />
