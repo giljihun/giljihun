@@ -12,12 +12,9 @@
 **- ⚡ Fun fact: I spend most of my time watching football games. (My cheer team is Arsenal.)**  
 
 ### Programming Languages  :rocket:
-|<img src="images/swift.png" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60> |
-|:---:|:---:|
+|<img src="images/swift.png" width=60> |
+|:---:|
 
----
-
-![gil's GitHub stats](https://github-readme-stats.vercel.app/api?username=giljihun&count_private=true)
 
 ### Connect with me  :smiley:
 <a href="mailto:accc45@outlook.com">
