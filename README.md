@@ -2,17 +2,6 @@
 
   <img src="https://github-readme-stats-fast.vercel.app/api?username=giljihun&show_icons=true&theme=radical&hide_border=true" width="48%" />  
 
-
-**🛠 Tech Stack**
-<p align="left">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=flat-square&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=Apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CoreML-333333?style=flat-square&logo=Apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Combine-E3225C?style=flat-square&logo=Apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/watchOS-92278F?style=flat-square&logo=applewatch&logoColor=white"/>
-</p>
-
 **📫 Connect**
 <p align="left">
   <a href="mailto:accc45@outlook.com">
