@@ -1,5 +1,7 @@
 ###  Jihun Gil
 
+[![giljihun's GitHub stats](https://github-stats-extended.vercel.app/api?username=giljihun)](https://github.com/stats-organization/github-stats-extended)
+
 **📫 Connect**
 <p align="left">
   <a href="mailto:accc45@outlook.com">
