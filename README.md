@@ -1,7 +1,5 @@
 ###  Jihun Gil
 
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=giljihun&show_icons=true&theme=radical&hide_border=true" width="48%" />  
-
 **📫 Connect**
 <p align="left">
   <a href="mailto:accc45@outlook.com">
